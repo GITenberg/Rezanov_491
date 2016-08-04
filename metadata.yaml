@@ -1,0 +1,33 @@
+_repo: Rezanov_491
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Horn, Gertrude Franklin
+    - Lin, Frank
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: Many of Gertrude Atherton''s novels are set in her native state of California
+  and feature gutsy, headstrong heroines. In Rezanov, a high-ranking Russian official
+  travels to California and is blown over by his first encounter with the beautiful,
+  independent Dona Concha Arguello. Can their love bridge the cultural divide between
+  them?
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rezanov, Nikolai Petrovich, 1764-1807 -- Fiction'
+- !lcsh 'California -- History -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Rezanov
+url: http://www.gutenberg.org/ebooks/491
